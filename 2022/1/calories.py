@@ -13,8 +13,6 @@ with open("input.txt") as f:
 			sum = 0
 		else:
 			sum += int(line)
-		
-	calories.append(sum)
 
 top3 = [0, 0, 0]
 
